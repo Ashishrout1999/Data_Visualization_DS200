@@ -15,4 +15,4 @@ This box plot demonstrates the variation in annual rainfall between 2001 to 2010
 ## Bar Plot
 ![bar_plot](bar_plot.png)
 
-The given bar plot displays the variation in annual rainfall between 2001 to 2010 for Odisha.
+The given bar plot displays the variation in annual rainfall between 2001 to 2010 for Odisha. We observe that on an annual basis, the variation in amount of rainfall is small.
